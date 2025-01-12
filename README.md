@@ -16,3 +16,20 @@ IsHotdog is a web application that determines whether an image contains a hotdog
 3. The Moondream model analyzes the image
 4. The result is displayed with a visual indicator and the model's response
 5. If it's a hotdog, celebrate with confetti! 🎉
+
+📦 Installation
+
+Clone the repository:
+```
+git clone https://github.com/sankeer28/IsHotdog.git
+cd IsHotdog
+```
+Install the required Python packages:
+```
+pip install -r requirements.txt
+```
+Run the application:
+```
+flask run
+```
+Open your browser and navigate to http://localhost:5000
