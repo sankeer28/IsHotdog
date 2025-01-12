@@ -1,6 +1,7 @@
 # IsHotdog 🌭
 
 IsHotdog is a web application that determines whether an image contains a hotdog or not, inspired by the Silicon Valley TV show. It uses the Moondream-2B vision-language model for image classification.
+![demo](https://github.com/user-attachments/assets/20ec709d-1328-4b5b-836b-b3717589f5b8)
 
 ## 🚀 Features
 
