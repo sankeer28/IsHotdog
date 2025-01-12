@@ -18,7 +18,33 @@ IsHotdog is a web application that determines whether an image contains a hotdog
 4. The result is displayed with a visual indicator and the model's response
 5. If it's a hotdog, celebrate with confetti! 🎉
 
-📦 Installation
+   
+## Pre-built Docker Image
+
+The image for this project is available on Docker Hub:
+
+- **Docker Hub repository**: [sankeer/ishotdog](https://hub.docker.com/repository/docker/sankeer/ishotdog)
+
+## Running the Docker Image
+
+
+1. **Pull the Docker image from Docker Hub:**
+   ```bash
+   docker pull sankeer/ishotdog
+   ```
+2. **Run the image**
+   ```
+   docker run -d -p 5000:5000 sankeer/ishotdog
+   ```
+3. **verify image runs**
+   ```
+   docker ps
+   ```
+4. **open localhost in broswer**:
+   http://localhost:5000
+
+
+## 📦 Installation
 
 Clone the repository:
 ```
