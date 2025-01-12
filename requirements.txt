@@ -4,4 +4,4 @@ moondream
 werkzeug
 torch
 transformers
-gunicorn
+
