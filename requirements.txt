@@ -1,0 +1,6 @@
+flask
+Pillow
+moondream
+werkzeug
+torch
+transformers
